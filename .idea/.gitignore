@@ -1,0 +1,8 @@
+# Default ignored files
+/../../KaggleMarketPredictionComp /.idea/shelf/
+/../../KaggleMarketPredictionComp /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../KaggleMarketPredictionComp /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../KaggleMarketPredictionComp /.idea/dataSources/
+/../../KaggleMarketPredictionComp /.idea/dataSources.local.xml
